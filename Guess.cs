@@ -17,4 +17,4 @@ namespace NumberGuesser
             GuessTime = DateTime.Now; 
         }
     }
-}
+} 
